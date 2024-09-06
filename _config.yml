@@ -12,7 +12,7 @@ title                    : "Cassandra Goldberg"
 title_separator          : "-"
 name                     : &name "Cassandra Goldberg"
 description              : &description "personal description"
-url                      : https://cassandra-goldberg.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cgoldber.github.io/cassandra-goldberg.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
