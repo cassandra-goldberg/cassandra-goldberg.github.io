@@ -17,19 +17,24 @@
           {% endif %}
           alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
         {% endif %}
+        
         {% if s.title %}
           <h3>{{ s.title }}</h3>
         {% endif %}
+        
         {% if s.text %}
-          {{ s.text | markdownify }}
+          {% if s.text contains "@" %}
+            <!-- Check if s.text contains "@" to display email as a mailto link -->
+            <a href="mailto:{{ s.text }}">{{ s.text }}</a>
+          {% else %}
+            {{ s.text | markdownify }}
+          {% endif %}
         {% endif %}
       {% endfor %}
+      
       {% if page.sidebar.nav %}
         {% include nav_list nav=page.sidebar.nav %}
       {% endif %}
     {% endif %}
-
-    <!-- New section to display email -->
-    <p><strong>Email:</strong> <a href="mailto:cgoldber@seas.upenn.edu">cgoldber@seas.upenn.edu</a></p>
   </div>
 {% endif %}
