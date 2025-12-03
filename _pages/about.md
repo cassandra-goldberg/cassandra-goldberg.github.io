@@ -11,7 +11,7 @@ Hello! My name is Cassandra (Casey) Goldberg. I am a first-year computer science
 
 I previously earned my BA in computer science and physics at Bowdoin College. There, I researched statistically-sound deep learning techniques for synthetic aperture radar (SAR) image segmentation under the mentorship of [Jeová Farias](https://jeovafarias.github.io/). 
 
-Going forward, I am interested in researching trustworthy and responsible AI. 
+I am a second-year PhD student focused on trustworthy AI, especially interpretability and representation learning. 
 
 ## Recent News!
 - **May 22, 2024**: I completed my senior Honors Project, 'Statistically Principled Deep Learning for SAR Image Segmentation,' which can be found in [Bowdoin Digital Commons](https://digitalcommons.bowdoin.edu/honorsprojects/517/).
