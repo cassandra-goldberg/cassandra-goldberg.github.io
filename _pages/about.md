@@ -12,7 +12,7 @@ Hello! My name is Cassandra (Casey) Goldberg. I am a second-year computer scienc
 I previously earned my BA in computer science and physics at Bowdoin College. There, I researched statistically-sound deep learning techniques for synthetic aperture radar (SAR) image segmentation under the mentorship of [Jeová Farias](https://jeovafarias.github.io/). 
 
 ## Preprints
-- **SuperActivators: Only the Tail of the Distribution Contains Reliable Concept Signals**  
+- *SuperActivators: Only the Tail of the Distribution Contains Reliable Concept Signals*  
   **Cassandra Goldberg**, Chaehyeon Kim, Adam Stein, Eric Wong  
   Pre-print, 2025 · MechInterp Workshop @ NeurIPS, 2025
 
