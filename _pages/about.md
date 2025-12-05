@@ -24,5 +24,5 @@ project proposal which is published in their [Conference Proceedings](https://oj
   **Cassandra Goldberg**, Chaehyeon Kim, Adam Stein, Eric Wong  
   Pre-print, 2025 · MechInterp Workshop @ NeurIPS, 2025
 - [*A Parameter Estimation-Inspired Convolutional Block for SAR Data*](https://tinyurl.com/MLStatsSAR)  
-  **Cassandra Goldberg** (first author), J. F. S. Rocha Neto  
+  **Cassandra Goldberg**, J. F. S. Rocha Neto  
   IEEE SIBGRAPI, 2025
