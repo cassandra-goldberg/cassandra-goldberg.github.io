@@ -15,7 +15,7 @@ I work on the theoretical foundations of interpretable and reliable AI, studying
 I graduated cum laude from Bowdoin College with a BA in computer science and physics. There, I researched statistically-sound deep learning techniques for synthetic aperture radar (SAR) image segmentation under the mentorship of [Jeová Farias](https://jeovafarias.github.io/).
 
 ## Recent News!
-- **Oct 2026**: 🎉 Our paper [SuperActivators](https://arxiv.org/abs/2512.05038) was accepted to NeurIPS 2026!
+- **Oct 2026**: 🎉 Our [SuperActivators](https://arxiv.org/abs/2512.05038) paper was accepted to NeurIPS 2026!
 - **Jul 2026**: 🎤 I presented [Sum-of-Checks](https://arxiv.org/abs/2604.22156) at IPCAI 2026.
 - **Oct 2025**: 📄 Our [SAR convolutional block paper](https://tinyurl.com/MLStatsSAR "A Parameter Estimation-Inspired Convolutional Block for SAR Data") was accepted to IEEE SIBGRAPI 2025.
 - **May 2024**: 🎓 I completed my [honors thesis on SAR image segmentation](https://digitalcommons.bowdoin.edu/honorsprojects/517/) at Bowdoin.
