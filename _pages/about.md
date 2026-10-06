@@ -22,7 +22,7 @@ I graduated cum laude from Bowdoin College with a BA in computer science and phy
 - **Feb 2024**: 🌟 I was selected as an [AAAI-24 Undergraduate Consortium Scholar](https://ojs.aaai.org/index.php/AAAI/issue/view/596).
 {: .news-list}
 
-## Publications and Preprints
+## Publications
 - [*SuperActivators: Only the Tail of the Distribution Contains Reliable Concept Signals*](https://tinyurl.com/SuperActs)<br>
   **Cassandra Goldberg**, Chaehyeon Kim, Adam Stein, Eric Wong<br>
   NeurIPS, 2026
