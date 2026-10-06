@@ -1,12 +1,12 @@
 ---
 title: "SuperActivators: Only the Tail of the Distribution Contains Reliable Concept Signals"
 collection: publications
-category: preprints
+category: conferences
 permalink: /publication/superactivators-tail-concept-signals
-excerpt: "<strong>Cassandra Goldberg</strong>, Chaehyeon Kim, Adam Stein, Eric Wong<br/>Pre-print, 2025<br/>MechInterp Workshop @ NeurIPS, 2025"
-date: 2025-01-01
-venue: "Preprint; MechInterp Workshop @ NeurIPS"
+excerpt: "<strong>Cassandra Goldberg</strong>, Chaehyeon Kim, Adam Stein, Eric Wong<br/>NeurIPS, 2026"
+date: 2026-01-01
+venue: "NeurIPS 2026"
 paperurl: "https://tinyurl.com/SuperActs"
 ---
 
-This is a preprint that will appear in the MechInterp Workshop at NeurIPS 2025.
+This paper was accepted to NeurIPS 2026.
