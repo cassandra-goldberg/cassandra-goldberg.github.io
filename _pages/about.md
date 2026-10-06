@@ -10,16 +10,16 @@ redirect_from:
 
 Hello! My name is Cassandra (Casey) Goldberg. I am a third-year computer science PhD student at the University of Pennsylvania, advised by [Eric Wong](https://riceric22.github.io/) in the [Brachio Lab](https://brachiolab.github.io/).
 
-My research focuses on how transformers represent concepts and how to make model predictions more reliable. In [SuperActivators](https://arxiv.org/abs/2512.05038), I develop theory explaining how attention amplifies concept signals and concentrates reliable evidence in a small set of highly activated tokens. I also work with surgeons on surgical safety assessment. Our [Sum-of-Checks](https://arxiv.org/abs/2604.22156) framework uses vision-language models to evaluate surgeon-defined visual checks, then combines the results with fixed scoring rules to assess whether surgical safety criteria are met.
+I work on the theoretical foundations of interpretable and reliable AI, studying how models encode information and how their internal computations shape their behavior. In collaboration with surgeons, I combine this understanding with clinical knowledge to develop AI methods that base their assessments on evidence relevant to surgical decisions.
 
-I previously earned my BA in computer science and physics at Bowdoin College. There, I researched statistically-sound deep learning techniques for synthetic aperture radar (SAR) image segmentation under the mentorship of [Jeová Farias](https://jeovafarias.github.io/). 
+I graduated cum laude from Bowdoin College with a BA in computer science and physics. There, I researched statistically-sound deep learning techniques for synthetic aperture radar (SAR) image segmentation under the mentorship of [Jeová Farias](https://jeovafarias.github.io/).
 
 ## Recent News!
-- **Oct 2026**: [SuperActivators](https://arxiv.org/abs/2512.05038 "Accepted to NeurIPS 2026") → NeurIPS.
-- **Jul 2026**: [Sum-of-Checks](https://arxiv.org/abs/2604.22156 "Presented at IPCAI 2026") at IPCAI.
-- **Oct 2025**: [SAR paper](https://tinyurl.com/MLStatsSAR "A Parameter Estimation-Inspired Convolutional Block for SAR Data") at SIBGRAPI.
-- **May 2024**: Completed [honors thesis](https://digitalcommons.bowdoin.edu/honorsprojects/517/ "Statistically Principled Deep Learning for SAR Image Segmentation — Bowdoin College").
-- **Feb 2024**: [AAAI Consortium Scholar](https://ojs.aaai.org/index.php/AAAI/issue/view/596 "Selected for the AAAI-24 Undergraduate Consortium").
+- **Oct 2026**: 🎉 Our paper [SuperActivators](https://arxiv.org/abs/2512.05038) was accepted to NeurIPS 2026!
+- **Jul 2026**: 🎤 I presented [Sum-of-Checks](https://arxiv.org/abs/2604.22156) at IPCAI 2026.
+- **Oct 2025**: 📄 Our [SAR convolutional block paper](https://tinyurl.com/MLStatsSAR "A Parameter Estimation-Inspired Convolutional Block for SAR Data") was accepted to IEEE SIBGRAPI 2025.
+- **May 2024**: 🎓 I completed my [honors thesis on SAR image segmentation](https://digitalcommons.bowdoin.edu/honorsprojects/517/) at Bowdoin.
+- **Feb 2024**: 🌟 I was selected as an [AAAI-24 Undergraduate Consortium Scholar](https://ojs.aaai.org/index.php/AAAI/issue/view/596).
 {: .news-list}
 
 ## Publications and Preprints
