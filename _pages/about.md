@@ -2,12 +2,15 @@
 permalink: /
 title: "About Me"
 author_profile: true
+body_class: home
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! My name is Cassandra (Casey) Goldberg. I am a third-year computer science PhD student at the University of Pennsylvania. My research focuses on understanding how AI models represent information and reason. I also work with surgeons on AI for surgical safety. I am fortunate to be advised by [Eric Wong](https://riceric22.github.io/) and to work as part of his [Brachio Lab](https://brachiolab.github.io/).
+Hello! My name is Cassandra (Casey) Goldberg. I am a third-year computer science PhD student at the University of Pennsylvania, advised by [Eric Wong](https://riceric22.github.io/) in the [Brachio Lab](https://brachiolab.github.io/).
+
+My research is in interpretability and representation learning. I study how neural networks encode concepts, and develop theory to understand which parts of their internal representations we can reliably interpret. I also collaborate with surgeons on AI for surgical safety, studying how vision-language models reason about surgical scenes and how clinicians can check the evidence behind their conclusions.
 
 I previously earned my BA in computer science and physics at Bowdoin College. There, I researched statistically-sound deep learning techniques for synthetic aperture radar (SAR) image segmentation under the mentorship of [Jeová Farias](https://jeovafarias.github.io/). 
 
@@ -19,6 +22,7 @@ I previously earned my BA in computer science and physics at Bowdoin College. Th
 - **February 2024**: I was honored to be chosen as an AAAI-24 Undergraduate 
 Consortium Scholar, where I had the opportunity to attend the conference and present a 
 project proposal which is published in their [Conference Proceedings](https://ojs.aaai.org/index.php/AAAI/issue/view/596).
+{: .news-list}
 
 ## Publications and Preprints
 - [*SuperActivators: Only the Tail of the Distribution Contains Reliable Concept Signals*](https://tinyurl.com/SuperActs)<br>
@@ -33,3 +37,4 @@ project proposal which is published in their [Conference Proceedings](https://oj
 - [*A Parameter Estimation-Inspired Convolutional Block for SAR Data*](https://tinyurl.com/MLStatsSAR)  
   **Cassandra Goldberg**, J. F. S. Rocha Neto  
   IEEE SIBGRAPI, 2025
+{: .publication-list}
