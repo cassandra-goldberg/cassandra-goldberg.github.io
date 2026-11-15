@@ -15,7 +15,7 @@ My research focuses on understanding how ML models represent and use information
 I graduated cum laude from Bowdoin College with a BA in computer science and physics. There, I researched statistically-sound deep learning techniques for synthetic aperture radar (SAR) image segmentation under the mentorship of [Jeová Farias](https://jeovafarias.github.io/).
 
 ## Recent News!
-- **Oct 2026**: 🎤 I gave an invited talk, “The SuperActivator Mechanism: Transformers Concentrate Reliable Concept Signals in the Tail,” in the Geometry for Modern AI minisymposium at the SIAM New York–New Jersey–Pennsylvania Section Annual Meeting in Piscataway, NJ.
+- **Oct 2026**: 🎤 I gave an invited talk on [SuperActivators](https://arxiv.org/abs/2512.05038) at SIAM NY–NJ–PA 2026.
 - **Oct 2026**: 🎉 Our [SuperActivators](https://arxiv.org/abs/2512.05038) paper was accepted to NeurIPS 2026!
 - **Jul 2026**: 🎤 I presented [Sum-of-Checks](https://arxiv.org/abs/2604.22156) at IPCAI 2026.
 - **Oct 2025**: 📄 Our [SAR convolutional block paper](https://tinyurl.com/MLStatsSAR "A Parameter Estimation-Inspired Convolutional Block for SAR Data") was accepted to IEEE SIBGRAPI 2025.
